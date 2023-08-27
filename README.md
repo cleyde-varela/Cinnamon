@@ -2,7 +2,6 @@
 
 ## 📌 About this project
 Cinnamon is a React website that works as a meal planner allowing users to search for recipes and add them to a monthly calendar.
-💡The name *Cinnamon* was chosen as it's one of my favorite spices.
   
 ## 📌 The reason behind it
 I built this website as the final project for a subject, *Web Technologies and Mobile Environments*, the work was divided into two phases, the first being Analysis and Design, in which I did my research, drafted some storyboards that were later turned into wireframes using Balsamiq and did some Usability tests with classmates in order to make improvements. The last phase was the implementation in which I wrote the code using React trying to keep close to what was designed.
@@ -32,4 +31,4 @@ You can run the code on your local machine using Visual Studio Code👋
 ![image](https://github.com/cleyde-varela/Cinnamon/assets/83819524/719f1edf-1441-40b9-94ab-ef16443684cf)
 ![image](https://github.com/cleyde-varela/Cinnamon/assets/83819524/46b16662-952b-49e7-99e5-d9f2231dc3de)
 
-
+💡The name *Cinnamon* was chosen as it's one of my favorite spices.
